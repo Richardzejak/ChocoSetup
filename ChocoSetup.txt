@@ -1,29 +1,28 @@
 # Simple environment setup script
 
 # Install Applications
-choco install notepadplusplus.install
 choco install GoogleChrome
-choco install firefox
 choco install spotify
 choco install postman
 choco install slack
 choco install microsoft-teams
+choco install discord
+choco install winrar
+choco install malwarebytes
 
 # Install Dev Applications
 choco install dotnet
-choco install flutter
 choco install git.install
+choco install nodejs.install
+choco install yarn
 choco install visualstudiocode
-choco install visualstudio2019professional
-choco install androidstudio
+choco install visualstudio2022community
 choco install resharper
+choco install materialicon-vscode
 choco install docker-desktop
+choco install xampp-74
+choco install composer
 
+choco install heidisql
 choco install sql-server-express
 choco install ssms
-choco install mongodb-compass
-
-
-# Install Utilities
-choco install googledrive
-choco install powertoys
