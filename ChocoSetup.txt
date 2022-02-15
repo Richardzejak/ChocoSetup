@@ -1,29 +1,29 @@
 # Simple environment setup script
 
 # Install Applications
-choco install GoogleChrome
-choco install spotify
-choco install postman
-choco install slack
-choco install microsoft-teams
-choco install discord
-choco install winrar
-choco install malwarebytes
+choco install GoogleChrome -y
+choco install spotify -y
+choco install postman -y
+choco install slack -y
+choco install microsoft-teams -y
+choco install discord -y
+choco install winrar -y
+choco install malwarebytes -y
 
 # Install Dev Applications
-choco install microsoft-windows-terminal
-choco install dotnet
-choco install git.install
-choco install nodejs.install
-choco install yarn
-choco install visualstudiocode
-choco install visualstudio2022community
-choco install resharper
-choco install materialicon-vscode
-choco install docker-desktop
-choco install xampp-74
-choco install composer
+choco install microsoft-windows-terminal -y
+choco install dotnet -y
+choco install git.install -y
+choco install nodejs.install -y
+choco install yarn -y
+choco install visualstudiocode -y
+choco install visualstudio2022community -y
+choco install resharper -y
+choco install materialicon-vscode -y
+choco install docker-desktop -y
+choco install xampp-74 -y
+choco install composer -y
 
-choco install heidisql
-choco install sql-server-express
-choco install ssms
+choco install heidisql -y
+choco install sql-server-express -y
+choco install ssms -y
