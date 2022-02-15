@@ -11,6 +11,7 @@ choco install winrar
 choco install malwarebytes
 
 # Install Dev Applications
+choco install microsoft-windows-terminal
 choco install dotnet
 choco install git.install
 choco install nodejs.install
